@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+	<id>refiral</id>
+	<name>Refiral</name>
+	<description>Launch your referral campaigns virally!</description>
+	<version>1.0.0</version>
+	<status>active</status>
+	<priority>110050</priority>
+	<settings>
+		<sections>
+			<section id="general">
+				<items>
+					<item id="apiKey">
+						<name>Enter Refiral API key: </name>
+						<type>input</type>
+						<default_value></default_value>
+					</item>
+					<item id="campaign_status">
+						<name>Refiral Campaign Status: </name>
+						<type>radiogroup</type>
+						<default_value>on</default_value>
+						<variants>
+                            <item id="on">
+                                <name>On</name>
+                            </item>
+                            <item id="off">
+                                <name>Off</name>
+                            </item>
+                        </variants>
+					</item>
+				</items>
+			</section>
+		</sections>
+	</settings>
+</addon>
