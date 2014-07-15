@@ -6,7 +6,7 @@ Once you've setup your marketing campaign on Refiral (www.Refiral.com). Finally,
 
 Follow these steps and finally bring your Refiral marketing campaign into action.
 
-**Step 1:** Download the Refiral CS Cart Addon from here
+**Step 1:** Download the Refiral CS Cart Addon from here(http://marketplace.cs-cart.com/add-ons/integrations/refiral-en-2.html)
 
 **Step 2:** Log in to admin and go to Add-ons --> Manage Add-ons
 
