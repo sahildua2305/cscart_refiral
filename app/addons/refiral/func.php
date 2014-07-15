@@ -26,7 +26,7 @@ function refiral_campaign_init($apiKey, $status){
 	else
 		echo '<script type="text/javascript">var showButton = false;</script>';
 	echo '<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>';
-	echo '<script type="text/javascript" src="//rfer.co/api/v1/js/all.new.js"></script>';
+	echo '<script type="text/javascript" src="//rfer.co/api/v1/js/all.js"></script>';
 }
 
 function fn_refiral_calculate_cart(&$cart, $cart_products, $auth, $calculate_shipping, $calculate_taxes, $apply_cart_promotions){
